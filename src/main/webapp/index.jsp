@@ -6,7 +6,6 @@
 
 <h3>You will get it soon</h3>
   
-  <h2> Call Us : + 91 - 99 85 39 66 88 </h2>
 
 </body>
 </html>
